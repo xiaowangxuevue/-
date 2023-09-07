@@ -1,0 +1,1 @@
+let arr:Array<any> = [1,'3']
